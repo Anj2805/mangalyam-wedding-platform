@@ -2,6 +2,8 @@
 
 A responsive frontend recreation of the Mangalyam wedding and celebration booking landing page, built with React and Vite. The page brings together venue and service categories, booking prompts, and trust indicators in a warm cream, gold, and burgundy visual style.
 
+![Mangalyam Desktop Preview](./result.png)
+
 ## Features
 
 - Responsive header with navigation and account actions
@@ -87,6 +89,7 @@ src/
 index.html
 package.json
 vite.config.js
+result.png
 README.md
 ```
 
